@@ -1,1 +1,1 @@
-# Pomponer
+# oh-my-shell
